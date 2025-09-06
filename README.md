@@ -18,8 +18,9 @@ Dibuat menggunakan HTML + TailwindCSS, dapat di-deploy dengan mudah via Netlify.
 ## Setup Instructions
 1. Clone repository:
    ```
+   https://github.com/Underfiff/ibm-kyoo-cloud.git
+
   
-   ```
 ## AI Support Explanation
 
 Dalam pengembangan proyek *Kyoo Cloud*, AI digunakan secara **relevan dan efektif** untuk mempercepat proses desain dan pembuatan kode. Berikut adalah penjelasan penggunaannya:
